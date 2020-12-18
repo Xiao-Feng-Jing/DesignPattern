@@ -30,7 +30,7 @@
       <option name="IGNORE_JAVADOC_PERIOD" value="true" />
       <option name="IGNORE_DUPLICATED_THROWS" value="false" />
       <option name="IGNORE_POINT_TO_ITSELF" value="false" />
-      <option name="myAdditionalJavadocTags" value="date" />
+      <option name="myAdditionalJavadocTags" value="date,Description:简单工厂的主函数,Date:,Description:,Description:设计模式之策略模式,Description:通过该类获取策略的上下文,Description:正常的算法策略,Description:折扣算法策略,Description:测试策略模式的使用类" />
     </inspection_tool>
   </profile>
 </component>
