@@ -1,11 +1,10 @@
-package SimpleFactory;
+package factory;
 
 /**
  * Created with IntelliJ IDEA.
- *
  * @author zengkan
  * @Date: 2020/12/17/20:08
- * @Description:
+ * @Description: 人类接口
  **/
 public interface People {
 

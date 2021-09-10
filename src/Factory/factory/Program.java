@@ -1,11 +1,11 @@
-package SimpleFactory;
+package factory;
 
 /**
  * Created with IntelliJ IDEA.
  *
  * @author zengkan
  * @Date: 2020/12/17/20:01
- * @Description:简单工厂的主函数
+ * @Description: 工厂的主函数
  **/
 public class Program {
 

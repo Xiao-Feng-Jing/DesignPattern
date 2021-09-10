@@ -1,4 +1,4 @@
-package SimpleFactory;
+package factory;
 
 /**
  * Created with IntelliJ IDEA.
